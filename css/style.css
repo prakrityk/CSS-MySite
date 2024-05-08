@@ -1,0 +1,119 @@
+body{
+    margin:0;
+    font-family: "Merriweather", serif;
+    text-align: center;
+    /* font-size: 1em; */
+}
+h1{ color:#66BFBF;
+    margin:7rem auto 0 auto;
+    font-family: "Sacramento", cursive;
+    font-size: 4.5rem;
+    line-height: 2;
+}
+h2{
+    font-family: 'monserrat',sans-serrif;
+   color:#66BFBF;
+   font-size: 2.5rem;
+}
+h3,a{
+    color: #11999E;
+}
+
+.intro{
+    margin-top: 0;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #11999E;
+}
+
+.top-container{
+    background-color:#BBE2EC ;
+    position:relative;
+    padding-top:20px;
+}
+.middle-container{
+   
+    /* background-color:#40514E  ; */
+    padding:20px;
+    position:relative;
+
+}
+.myImg{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+.Img{
+  
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.Imgi{
+  
+    width:25%;
+    float:right;
+    margin-right: 30px;
+}
+.bottom-container{
+    potition:relative;
+    margin-bottom:0;
+    background-color: #66bfbf ;
+        padding:20px;
+}
+.top-cloud{
+position: absolute;
+top:2%;
+right:25%;
+
+}
+.bottom-cloud{
+position: absolute;
+left:25%;
+
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-description{
+    clear:left;}
+    
+.extra-skill-description{
+        clear:right;}
+
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-width:8px;
+    border-color: grey;
+    background-color:white;
+width:5%;
+height:0;
+}
+
+.BUTTON_GGN {
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Verdana;
+    padding-top: 10px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    
+   width:150px;
+   height:30px; 
+ }
+ .footer-link{
+    color:#068186
+ }
+ .trademark{
+    font-size: 10px;
+    color: white;
+    font-weight: normal;
+ }
